@@ -9,5 +9,5 @@ get '/surface' do
 end
 
 get '/routing-something' do
-  "<h1>this is working</h1><h1>rubycs.rainclab.net</h1>"
+  "<h1>this is working</h1><h1>rubycs.rainclab.net</h1><h1>rainclab.net</h1>"
 end
